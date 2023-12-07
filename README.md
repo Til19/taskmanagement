@@ -1,3 +1,9 @@
+
+TODO:
+B2B Project daher in den meisten Clerk instances "hide personal" ausgewählt, sollte später geändert werden
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
