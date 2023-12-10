@@ -23,7 +23,7 @@ export const Sidebar = ({
         {}
     );
     const { 
-        organization: activeOrganizaion, 
+        organization: activeOrganization,
         isLoaded: isLoadedOrg
     } = useOrganization();//bei 2:20:45 erklärt er diesen shit mit dem alias
     const { 
@@ -103,4 +103,4 @@ export const Sidebar = ({
   )
 }
 
-export default Sidebar
+export default Sidebar;
